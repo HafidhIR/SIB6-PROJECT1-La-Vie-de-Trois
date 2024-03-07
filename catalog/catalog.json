@@ -1,0 +1,70 @@
+[
+    {
+        "source": "cd",
+        "title": "test ini cd 1",
+        "subject": "Song",
+        "upc": "",
+        "artist": "Lemon"
+    },
+    {
+        "source": "book",
+        "title": "Title test",
+        "subject": "ini subject test",
+        "upc": "",
+        "issbn": "1345-123",
+        "authors": "Febri",
+        "dds_number": 123412
+    },
+    {
+        "source": "book",
+        "title": "Title test",
+        "subject": "ini subject test",
+        "upc": "",
+        "issbn": "1345-123",
+        "authors": "Febri",
+        "dds_number": 123412
+    },
+    {
+        "source": "book",
+        "title": "Title test",
+        "subject": "ini subject test",
+        "upc": "",
+        "issbn": "1345-123",
+        "authors": "Febri",
+        "dds_number": 123412
+    },
+    {
+        "source": "book",
+        "title": "ini book 1 test",
+        "subject": "Novel",
+        "upc": "",
+        "issbn": "",
+        "authors": "Makoto Shinkai",
+        "dds_number": 123412
+    },
+    {
+        "source": "magazine",
+        "title": "media_cnn test",
+        "subject": "subject",
+        "upc": "",
+        "volume": "volume 1",
+        "issue": "-"
+    },
+    {
+        "source": "magazine",
+        "title": "media_cnbc",
+        "subject": "subject",
+        "upc": "",
+        "volume": "volume 2",
+        "issue": "-"
+    },
+    {
+        "source": "dvd",
+        "title": "test Dvd 1",
+        "subject": "ini subject dvd",
+        "upc": "",
+        "actors": "Vin Diesel",
+        "directors": "James Wan",
+        "genre": "Action"
+    }
+]
